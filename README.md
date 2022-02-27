@@ -4,6 +4,7 @@
 - 👀 Programming, gardening, tennis, and gymming are some of my interests
 - 🌱 Currently, I'm learning R language, UX design, and many other things
 - 💞️ Interested in collaborating and learning from other developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫  Jarrentoh@outlook.com
 
 <!---
