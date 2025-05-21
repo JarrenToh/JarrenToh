@@ -1,4 +1,4 @@
-### Hi there, I'm Jarren a Information System Final Year Student in NUS
+### Hi there, I'm Jarren a NUS Information System Graduate
 
 - 👋 Hi, I’m @JarrenToh
 - 📫  Jarrentoh@outlook.com
