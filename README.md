@@ -1,7 +1,9 @@
-### Hi there, I'm Jarren a NUS Information System Graduate
+### Hey there! I'm Jarren — a recent NUS Information Systems graduate
 
-- 👋 Hi, I’m @JarrenToh
-- 📫  Jarrentoh@outlook.com
+- 👋 I'm @JarrenToh
+- 🌱 Passionate about product design, development, and management
+- 📫 Reach me at jarrentoh@outlook.com
+- 🌐 Portfolio: [jarrentoh.dev](https://www.jarrentoh.dev/)
 
 <!---
 JarrenToh/JarrenToh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
