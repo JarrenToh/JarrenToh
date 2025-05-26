@@ -1,4 +1,4 @@
-### Hey there! I'm Jarren — a recent NUS Information Systems graduate
+### Hey there! I'm Jarren — NUS Information Systems graduate
 
 - 👋 I'm @JarrenToh
 - 🌱 Passionate about product design, development, and management
